@@ -1,5 +1,8 @@
 # shazaa-uasfix
 
+# UAS LAB PBK
+NAMA :SHAZA NASHWA ZALTI
+NPM : 213510283
 ## Project setup
 ```
 npm install
